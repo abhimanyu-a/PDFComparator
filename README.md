@@ -1,4 +1,4 @@
-# PDFComparator
+# PDF Comparator - Utility to compare two PDF's and highlight their differences
 
 ## Description
 The purpose of the PDF Comparator tool is to perform pixel by pixel comparison of two pdf's and validate whether they match or not.
